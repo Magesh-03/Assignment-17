@@ -6,7 +6,7 @@ function Card({setCart}) {
     <div className="col mb-5">
         <div className="card h-100">
             <div className="badge bg-dark text-white position-absolute" style={{top: "0.5rem", right: "0.5rem"}}>Sale</div>
-            <img className="card-img-top" src="https://tse3.mm.bing.net/th?id=OIP.nvdM5sEm4DqG8oZb8nNStQHaHa&pid=Api&P=0&h=220" alt="..." />
+            <img className="card-img-top" src="https://tse3.mm.bing.net/th?id=OIP.9oxxBrCNqRK192sHlHWCvwHaGk&pid=Api&P=0&h=220" alt="..." />
             <div className="card-body p-4">
                 <div className="text-center">
                     <h5 className="fw-bolder">Sale Item</h5>
